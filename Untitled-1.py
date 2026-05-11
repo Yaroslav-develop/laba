@@ -6,3 +6,4 @@ def f(x):
         for j in range(0, x^2):
             main[i, j] = g()
     return main
+print(f(10))
